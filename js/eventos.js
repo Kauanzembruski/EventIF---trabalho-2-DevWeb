@@ -7,7 +7,7 @@ const eventos = [
         data: "12/09/2026",
         local: "Auditorio Central",
         avaliacao: 4.9,
-        imagem: "../img/futurodigital.jpg",
+        imagem: "../futurodigital.jpg",
         descricao: "Uma conversa sobre impactos da inteligencia artificial na educacao, no mercado de trabalho e na pesquisa cientifica."
     },
     {
