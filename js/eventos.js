@@ -7,7 +7,7 @@ const eventos = [
         data: "12/09/2026",
         local: "Auditorio Central",
         avaliacao: 4.9,
-        imagem: "../futurodigital.jpg",
+        imagem: "./img/futurodigital.jpg",
         descricao: "Uma conversa sobre impactos da inteligencia artificial na educacao, no mercado de trabalho e na pesquisa cientifica."
     },
     {
@@ -18,7 +18,7 @@ const eventos = [
         data: "14/09/2026",
         local: "Sala Maker 2",
         avaliacao: 4.7,
-        imagem: "../img/carreiras.jpg",
+        imagem: "./img/carreiras.jpg",
         descricao: "Profissionais convidados apresentam caminhos de carreira em desenvolvimento, dados, seguranca e gestao de produtos digitais."
     },
     {
@@ -29,7 +29,7 @@ const eventos = [
         data: "16/09/2026",
         local: "Biblioteca IF",
         avaliacao: 4.5,
-        imagem: "../img/natureza.jpg",
+        imagem: "./img/natureza.jpg",
         descricao: "Debate sobre consumo consciente, energia limpa e acoes sustentaveis que podem ser aplicadas em instituicoes de ensino."
     },
     {
@@ -40,7 +40,7 @@ const eventos = [
         data: "18/09/2026",
         local: "Anfiteatro Bloco B",
         avaliacao: 4.6,
-        imagem: "../img/empre.jpg",
+        imagem: "./img/empre.jpg",
         descricao: "Encontro sobre transformacao de ideias em projetos reais, com exemplos de startups criadas por estudantes."
     },
     {
@@ -51,7 +51,7 @@ const eventos = [
         data: "20/09/2026",
         local: "Laboratorio de Informatica 1",
         avaliacao: 4.8,
-        imagem: "../img/boot.jpg",
+        imagem: "./img/boot.jpg",
         descricao: "Atividade pratica para criar paginas responsivas com HTML, CSS e componentes do Bootstrap."
     },
     {
@@ -62,7 +62,7 @@ const eventos = [
         data: "21/09/2026",
         local: "Laboratorio de Robotica",
         avaliacao: 4.9,
-        imagem: "../img/arduino.jpg",
+        imagem: "./img/arduino.jpg",
         descricao: "Montagem de circuitos simples com sensores, leds e conceitos iniciais de programacao embarcada."
     },
     {
@@ -73,7 +73,7 @@ const eventos = [
         data: "22/09/2026",
         local: "Estudio Multimidia",
         avaliacao: 4.4,
-        imagem: "../img/celular.jpg",
+        imagem: "./img/celular.jpg",
         descricao: "Tecnicas de enquadramento, luz e edicao para produzir fotografias melhores usando apenas o celular."
     },
     {
@@ -84,7 +84,7 @@ const eventos = [
         data: "24/09/2026",
         local: "Espaco de Inovacao",
         avaliacao: 4.6,
-        imagem: "../img/3d.jpg",
+        imagem: "./img/3d.jpg",
         descricao: "Introducao a modelagem, preparo de arquivos e impressao 3D para prototipos escolares e projetos pessoais."
     },
     {
@@ -95,7 +95,7 @@ const eventos = [
         data: "25/09/2026",
         local: "Patio Principal",
         avaliacao: 4.7,
-        imagem: "../img/show.jpg",
+        imagem: "./img/show.jpg",
         descricao: "Apresentacao musical com repertorio autoral e releituras de sucessos nacionais escolhidos pelos estudantes."
     },
     {
@@ -106,7 +106,7 @@ const eventos = [
         data: "26/09/2026",
         local: "Quadra Coberta",
         avaliacao: 4.3,
-        imagem: "../img/cultura.jpg",
+        imagem: "./img/cultura.jpg",
         descricao: "Evento aberto com musica, poesia, danca e apresentacoes artisticas preparadas pela comunidade escolar."
     },
     {
@@ -117,7 +117,7 @@ const eventos = [
         data: "28/09/2026",
         local: "Hall da Biblioteca",
         avaliacao: 4.8,
-        imagem: "../img/cafe.jpg",
+        imagem: "./img/cafe.jpg",
         descricao: "Apresentacao intimista de jazz instrumental acompanhada por feira de cafes especiais e produtos locais."
     },
     {
@@ -128,7 +128,7 @@ const eventos = [
         data: "30/09/2026",
         local: "Centro de Eventos",
         avaliacao: 4.5,
-        imagem: "../img/elet.jpg",
+        imagem: "./img/elet.jpg",
         descricao: "Encerramento do festival com DJs convidados, iluminacao especial e ambiente organizado para estudantes e convidados."
     }
 ];
